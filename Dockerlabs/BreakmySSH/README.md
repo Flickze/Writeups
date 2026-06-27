@@ -152,6 +152,6 @@ Desde aquí se tiene control total: lectura de archivos sensibles como `/etc/sha
 
 ---
 
-## Conclusión y lecciones
+## Conclusión
 
 Esta máquina demuestra uno de los vectores de ataque más comunes en entornos reales: **credenciales débiles en servicios expuestos a la red**.
