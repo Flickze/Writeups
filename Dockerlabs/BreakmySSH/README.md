@@ -1,11 +1,7 @@
 # 🐳 DockerLabs — breakmySSH
 
-**Plataforma:** [DockerLabs](https://dockerlabs.es/)  
-**Dificultad:** Muy fácil  
-**Sistema operativo:** Linux (Debian)  
-**Técnicas:** Reconocimiento con Nmap · Fuerza bruta SSH con Hydra  
-**Fecha:** Junio 2026  
-**Autor:** skye
+**Plataforma:** [DockerLabs](https://dockerlabs.es/)    
+**Técnicas:** Reconocimiento con Nmap · Fuerza bruta SSH con Hydra   
 
 ---
 
